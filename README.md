@@ -20,6 +20,7 @@ const aboutMe = {
    challenge: "I'm working to finish my Bachelor's degree.",
 };
 ```
+![](https://img.shields.io/github/followers/martinnacimiento?style=social)
 
 <!--
 **martinnacimiento/martinnacimiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
