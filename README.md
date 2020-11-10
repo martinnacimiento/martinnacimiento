@@ -1,4 +1,4 @@
-### Hi, I'm Martin! 👋
+<h2> Hi, I'm Martin! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50"></h2>
 
 <p><em>Bachelor's student in information systems at <a href="https://www.unam.edu.ar/">National University of Misiones</a><img src="https://media.giphy.com/media/9PkgEEtx2NBaFpxgwh/giphy.gif" width="30"></br>I graduated as an analyst in computer systems at <a href="https://www.unam.edu.ar/">National University of Misiones</a><img src="https://media.giphy.com/media/YoiQ2IMGYCuQkF2iZH/giphy-downsized.gif" width="30"> 
 </em></p>
