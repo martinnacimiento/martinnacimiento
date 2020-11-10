@@ -24,10 +24,10 @@ const aboutMe = {
 ```
 ![](https://img.shields.io/github/followers/martinnacimiento?style=social)
 
+⭐️ From [@martinnacimiento](https://github.com/martinnacimiento)
+
 <!--
 **martinnacimiento/martinnacimiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-⭐️ From [@martinnacimiento](https://github.com/martinnacimiento)
 
 Here are some ideas to get you started:
 
