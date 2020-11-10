@@ -1,6 +1,6 @@
 ### Hi, I'm Martin! 👋
 
-<p><em>Bachelor's student in information systems at <a href="https://www.unam.edu.ar/">National University of Misiones</a><img src="https://media.giphy.com/media/oNQxLCqlzDGhDhFYN0/giphy.gif" width="30"></br>I graduated as an analyst in computer systems at <a href="https://www.unam.edu.ar/">National University of Misiones</a><img src="https://media.giphy.com/media/YoiQ2IMGYCuQkF2iZH/giphy-downsized.gif" width="30"> 
+<p><em>Bachelor's student in information systems at <a href="https://www.unam.edu.ar/">National University of Misiones</a><img src="https://media.giphy.com/media/9PkgEEtx2NBaFpxgwh/giphy.gif" width="30"></br>I graduated as an analyst in computer systems at <a href="https://www.unam.edu.ar/">National University of Misiones</a><img src="https://media.giphy.com/media/YoiQ2IMGYCuQkF2iZH/giphy-downsized.gif" width="30"> 
 </em></p>
 
 [![Linkedin: martinnacimiento](https://img.shields.io/badge/-martinnacimiento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martinnacimiento/)](https://www.linkedin.com/in/martinnacimiento/)
