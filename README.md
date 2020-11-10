@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+```javascript
+const aboutMe = {
+   code: [Javascript, HTML, CSS, Python, Java, PHP, GO, C, C++],
+   technologies: {
+      frontEnd: {
+         js: ["Vue", "Nuxt.js", "Vuetify"],
+         css: ["Bulma", "Bootstrap", "Tailwind"]
+      },
+      backEnd: {
+         php: ["Laravel"],
+         js: ["Node", "Express"],
+         python: ["Django", "Flask"],
+         misc: ["Bash", "Docker"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working to finish my Bachelor's degree.",
+};
+```
+
 <!--
 **martinnacimiento/martinnacimiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
