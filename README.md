@@ -1,5 +1,7 @@
 ### Hi, I'm Martin! 👋
 
+[![Linkedin: martinnacimiento](https://img.shields.io/badge/-martinnacimiento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martinnacimiento/)](https://www.linkedin.com/in/martinnacimiento/)
+
 ```javascript
 const aboutMe = {
    code: [Javascript, HTML, CSS, Python, Java, PHP, GO, C, C++],
