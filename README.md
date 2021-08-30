@@ -1,5 +1,7 @@
 <h2> Hi, I'm Martin! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50"></h2>
 
+I'm Full Stack Developer at [@Clapps](https://github.com/Clapps) && teacher at [@nucba](https://github.com/nucba)
+
 <p><em>Bachelor's student in information systems at <a href="https://www.unam.edu.ar/">National University of Misiones</a><img src="https://media.giphy.com/media/9PkgEEtx2NBaFpxgwh/giphy.gif" width="30"></br>I graduated as an analyst in computer systems at <a href="https://www.unam.edu.ar/">National University of Misiones</a><img src="https://media.giphy.com/media/YoiQ2IMGYCuQkF2iZH/giphy-downsized.gif" width="30"> 
 </em></p>
 
@@ -21,7 +23,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
    },
-   currentOccupation: ["Full-Stack Developer", "Teacher"],
+   currentOccupation: ["Full Stack Developer", "Teacher"],
    challenge: "I'm working to finish my Bachelor's degree.",
 };
 ```
