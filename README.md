@@ -10,7 +10,7 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Python, Java, PHP, GO, C, C++],
    technologies: {
       frontEnd: {
-         js: ["Vue", "Nuxt.js", "Vuetify"],
+         js: ["Vue", "React", "MaterialUI", "Nuxt.js", "Vuetify"],
          css: ["Bulma", "Bootstrap", "Tailwind"]
       },
       backEnd: {
@@ -21,7 +21,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Full-Stack Developer", "Teacher"],
    challenge: "I'm working to finish my Bachelor's degree.",
 };
 ```
