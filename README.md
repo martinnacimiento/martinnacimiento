@@ -1,8 +1,6 @@
 <h2> Hi, I'm Martin! <img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="50"></h2>
 
 - 👨‍💻 I'm Full Stack Developer at [@Novolabs](https://www.novolabs.xyz/) && teacher at [@nucba](https://github.com/nucba) 
-- 📚 Bachelor's student in information systems at [National University of Misiones](https://www.unam.edu.ar/)
-- 🧑‍🎓 I graduated as an analyst in computer systems at [National University of Misiones](https://www.unam.edu.ar/) 
 
 [![Linkedin: martinnacimiento](https://img.shields.io/badge/-martinnacimiento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martinnacimiento/)](https://www.linkedin.com/in/martinnacimiento/)
 
