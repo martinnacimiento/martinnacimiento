@@ -1,27 +1,17 @@
-<h2> Hi, I'm Martin! <img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Martin!</h2>
 
-- 👨‍💻 I'm Full Stack Developer at [@Novolabs](https://www.novolabs.xyz/) && teacher at [@nucba](https://github.com/nucba) 
+- 👨‍💻 I'm Software Engineer
 
 [![Linkedin: martinnacimiento](https://img.shields.io/badge/-martinnacimiento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martinnacimiento/)](https://www.linkedin.com/in/martinnacimiento/)
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, HTML, CSS, Python, Java, PHP, GO, C, C++],
+   code: ["Javascript", "Typescript"],
    technologies: {
-      frontEnd: {
-         js: ["Vue", "React", "MaterialUI", "Nuxt.js", "Vuetify"],
-         css: ["Bulma", "Bootstrap", "Tailwind"]
-      },
-      backEnd: {
-         php: ["Laravel"],
-         js: ["Node", "Express"],
-         python: ["Django", "Flask"],
-         misc: ["Bash", "Docker"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
+      frontEnd: ["React", "ReactNative"]},
+      backEnd: ["NestJs", "Docker", "AWS"],
+      databases: ["MongoDB", "mySQL", "PostgreSQL", "Redis"],
    },
-   currentOccupation: ["Full Stack Developer", "Teacher"],
-   challenge: "I'm working to finish my Bachelor's degree.",
 };
 ```
 ![](https://img.shields.io/github/followers/martinnacimiento?style=social)
